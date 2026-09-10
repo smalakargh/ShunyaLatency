@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Model and dataset artifacts
+*.h5
+*.tflite
+*.npy
+*.wav
+
+# Build / generated files
+build/
+dist/
+*.bin
+*.elf
+*.hex
+
+# Logs
+*.log
